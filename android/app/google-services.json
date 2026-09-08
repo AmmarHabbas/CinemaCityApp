@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754585659227",
+    "project_id": "cinema-city-app",
+    "storage_bucket": "cinema-city-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754585659227:android:8e0f6934ded2e1a9239c7e",
+        "android_client_info": {
+          "package_name": "com.example.dribble_cinema_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8a0QpmxShTgtY7pm-fA-IqKi6zjjM4sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+name: cinema_ui_reference
+description: A Flutter recreation of the supplied cinema booking UI reference.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.4.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences :
+  firebase_core : ^4.13.0
+  cloud_firestore: ^6.8.0
+  firebase_auth: ^6.5.7
+  firebase_storage: ^13.4.6
+  firebase_messaging: ^16.5.0
+  url_launcher: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/posters/
+    - assets/cast/
+    - assets/logo/
